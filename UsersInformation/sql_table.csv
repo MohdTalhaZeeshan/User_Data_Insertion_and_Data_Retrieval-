@@ -1,0 +1,11 @@
++--------+----------+------------------+---------+------------+
+| userId | userName | userEmailId      | userAge | userDOB    |
++--------+----------+------------------+---------+------------+
+|      1 | raju     | raju@gmail.com   |      22 | 2001-04-10 |
+|      2 | rahul    | rahul@gmail.com  |      22 | 2001-03-05 |
+|      3 | chandu   | chandu@gmail.com |      21 | 2002-07-12 |
+|      4 | pavan    | pavan@gmail.com  |      20 | 2003-03-06 |
+|      5 | kiran    | kiran@gmail.com  |      19 | 2004-12-27 |
+|      6 | mahesh   | mahesh@gmail.com |      21 | 2002-09-14 |
++--------+----------+------------------+---------+------------+
+6 rows in set (0.03 sec)
